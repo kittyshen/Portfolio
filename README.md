@@ -5,21 +5,19 @@ Kitty's portfolio for projects meow did.
 ## screen shots of some of the projects
 
 ### Urban Explorer
-![]()
-![]()
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/urbanExplorer01.png)
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/urbanExplorer02.png)
 
-#### Link to the site
-[Click me](https://kittyshen.github.io/UrbanExplorer/)
+#### [Link to the site](https://kittyshen.github.io/UrbanExplorer/)
 
 ### Gif Digger
-![]()
-#### Link to the site
-[Click me](https://kittyshen.github.io/GifDigger/)
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/gifDiggerSc.png)
+#### [Link to the site](https://kittyshen.github.io/GifDigger/)
+
 
 ### Bubble Guess Game
-![]()
-#### Link to the site
-[Click me](https://kittyshen.github.io/unit-4-game/)
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/bubbleGame.png)
+#### [Link to the site](https://kittyshen.github.io/unit-4-game/)
 
 ### Author 
 [Kitty Shen ](https://github.com/kittyshen)
