@@ -19,8 +19,11 @@ Kitty's portfolio for projects meow did.
 ![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/bubbleGame.png)
 #### [Link to the site](https://kittyshen.github.io/unit-4-game/)
 
+
 ### Author 
 [Kitty Shen ](https://github.com/kittyshen)
+
+### [Link to Portfolio Site](https://kittyshen.github.io/Portfolio/)
 
 ### Tech Skills 
 C, C#, CSS, HTML5, Jquery,JavaScript,Ajax, Node.js, Python, 
