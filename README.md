@@ -3,6 +3,11 @@
 Kitty's portfolio for projects meow did.
 
 ## screen shots of some of the projects
+### Job Pal
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/jplanding.jpg)
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/jpdashboard.jpg)
+![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/urjpadmin.jpg)
+
 
 ### Urban Explorer
 ![](https://github.com/kittyshen/Portfolio/blob/master/assets/images/urbanExplorer01.png)
